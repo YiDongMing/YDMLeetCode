@@ -5,6 +5,6 @@ import com.code.链表.两数相加.ListNode;
 public class DeleteNNode {
 
     public ListNode removeNthFromEnd(ListNode head, int n) {
-
+        return null;
     }
 }

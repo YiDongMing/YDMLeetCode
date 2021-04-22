@@ -1,9 +1,10 @@
-package com.code.Á´±í.ºÏ²¢K¸öÅÅĞòÁ´±í;
+package com.code.é“¾è¡¨.åˆå¹¶Kä¸ªæ’åºé“¾è¡¨;
+
+import com.code.é“¾è¡¨.åˆå¹¶Kä¸ªæ’åºé“¾è¡¨.ListNode;
 
 public class Hbkglb {
 
     public ListNode mergeKLists(ListNode[] lists) {
-        //±éÀúÃ¿¸öÁ´±í£¬ÒÀ´ÎºÏ²¢
         ListNode list = null;
         for(ListNode listNode : lists){
             list = mergeTwoLists(list,listNode);
