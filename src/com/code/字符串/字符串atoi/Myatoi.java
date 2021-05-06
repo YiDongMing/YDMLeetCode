@@ -1,4 +1,4 @@
-package com.code.其他.字符串atoi;
+package com.code.字符串.字符串atoi;
 
 public class Myatoi {
 
